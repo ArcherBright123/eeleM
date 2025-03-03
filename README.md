@@ -23,3 +23,13 @@ Kirby Changes:
 
 Plus:
 + Down Air now Spikes
+
+Zelda Changes:
+
+Plus:
++ Up air Hitbox is now DRASTICALLY bigger
++ Side B does 50%
+
+Minus:
+
+-Side B has less control and mostly goes in a straight line
