@@ -18,6 +18,8 @@ Cons:
 
 - Can SD while using flame breath.
 
+<img width="712" alt="image" src="https://github.com/user-attachments/assets/e3f08b02-0933-4c7e-bb5d-b64c81163d45" />
+
 
 Kirby Changes:
 
