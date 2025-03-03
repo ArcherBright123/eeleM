@@ -6,7 +6,7 @@ In Progress.
 
 Bowser changes:
 
-Plus:
+Pros:
 + Good recovery
 + Up air is now 4x faster
 + Flame breath now covers the WHOLE STAGE and deals 20% per flame.
@@ -14,6 +14,6 @@ Plus:
 + INFINITE Jumps.
 + Side B Throw Instakills
 
-Minus:
+Cons:
 
 - Can SD while using flame breath.
