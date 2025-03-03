@@ -5,6 +5,7 @@ This will include the rom.
 In Progress.
 
 Bowser changes:
+
 Plus:
 + Good recovery
 + Up air is now 4x faster
@@ -12,5 +13,7 @@ Plus:
 + Jab poisons
 + INFINITE Jumps.
 + Side B Throw Instakills
+
 Minus:
+
 - Can SD while using flame breath.
