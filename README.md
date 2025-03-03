@@ -35,3 +35,9 @@ Plus:
 Minus:
 
 + Side B has less control and mostly goes in a straight line
+
+Pichu Changes:
+
+Plus:
+
++ Pichu Now weighs the same as Bowser, with his weight going from 57 to 117
