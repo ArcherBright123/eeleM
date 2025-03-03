@@ -32,4 +32,4 @@ Plus:
 
 Minus:
 
--Side B has less control and mostly goes in a straight line
++ Side B has less control and mostly goes in a straight line
