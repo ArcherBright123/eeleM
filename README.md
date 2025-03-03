@@ -17,3 +17,9 @@ Pros:
 Cons:
 
 - Can SD while using flame breath.
+
+
+Kirby Changes:
+
+Plus:
++ Down Air now Spikes
