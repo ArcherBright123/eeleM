@@ -41,3 +41,31 @@ Pichu Changes:
 Plus:
 
 + Pichu Now weighs the same as Bowser, with his weight going from 57 to 117
+
+
+Ganondorf:
+
+Plus:
+
++ His run speed is around 4x faster
+
+Minus:
+
++ Most attack knockback reduced by 10 - 20%
+
+
+Fox:
+
+Plus:
++ None
+  
+
+Minus:
+
++ Up B Goes nowhere
++ Up smash has become the worst smash attack in the game, doing only 6% and minimal knockback
++ Laser's only survive for 10ms onscreen, making it impossible to hit unless you are right next to the character.
++ Down B no longer reflects, but still has the frame 1 electric hitbox
++ Side B only does 1% damage
+
+
