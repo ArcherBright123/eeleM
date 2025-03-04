@@ -5,7 +5,7 @@ Please don't hurt me Nintendo.
 
 In Progress. Still a long way to go.
 
-Bowser changes:
+#Bowser changes:
 
 Pros:
 + Good recovery
@@ -24,7 +24,7 @@ Cons:
 
 
 
-Kirby Changes:
+#Kirby Changes:
 
 Plus:
 + Down Air now Spikes
@@ -33,7 +33,7 @@ Plus:
 
 
 
-Zelda Changes:
+#Zelda Changes:
 
 Plus:
 + Up air Hitbox is now DRASTICALLY bigger
@@ -47,7 +47,7 @@ Minus:
 
 
 
-Pichu Changes:
+#Pichu Changes:
 
 Plus:
 
@@ -58,7 +58,7 @@ Plus:
 
 
 
-Ganondorf:
+#Ganondorf:
 
 Plus:
 
@@ -73,7 +73,7 @@ Minus:
 
 
 
-Fox:
+#Fox Changes:
 
 Plus:
 + None
@@ -92,7 +92,7 @@ Minus:
 
 
 
-Doctor Mario:
+#Doctor Mario Changes:
 
 Plus:
 
@@ -100,7 +100,7 @@ Plus:
 + Picture is now the AI DM Meme
 
 
-Luigi:
+#Luigi Changes:
 
 + Will Always Misfire
 
