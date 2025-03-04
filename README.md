@@ -107,3 +107,16 @@ Plus:
 Minus:
 
 + Up B does 50% less knockback, but still retains the damage done.
+
+
+# JigglyPuff Changes:
+
+Plus: 
++ Down air now spikes
+
+
+Minus:
++ Down B is now 4 times slower
++ Air mobility is now the WORST in the game
+
+
