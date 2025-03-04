@@ -1,6 +1,7 @@
 # eleeM 
 Backwards Super smash bros Melee. The Tier list is flipped on its head with the Worst (Bowser, Kirby) Becoming ABSOLUTELY BROKEN and the Best (Fox, Shiek) Becoming dogsh*t.
-This will include the rom. Please don't hurt me Nintendo.
+This will include the rom. 
+Please don't hurt me Nintendo.
 
 In Progress. Still a long way to go.
 
@@ -13,18 +14,24 @@ Pros:
 + Jab poisons
 + INFINITE Jumps.
 + Side B Throw Instakills
+<img width="712" alt="image" src="https://github.com/user-attachments/assets/e3f08b02-0933-4c7e-bb5d-b64c81163d45" />
 
 Cons:
 
 - Can SD while using flame breath.
 
-<img width="712" alt="image" src="https://github.com/user-attachments/assets/e3f08b02-0933-4c7e-bb5d-b64c81163d45" />
+
+
 
 
 Kirby Changes:
 
 Plus:
 + Down Air now Spikes
+
+
+
+
 
 Zelda Changes:
 
@@ -36,11 +43,19 @@ Minus:
 
 + Side B has less control and mostly goes in a straight line
 
+
+
+
+
 Pichu Changes:
 
 Plus:
 
 + Pichu Now weighs the same as Bowser, with his weight going from 57 to 117
+
+
+
+
 
 
 Ganondorf:
@@ -52,6 +67,10 @@ Plus:
 Minus:
 
 + Most attack knockback reduced by 10 - 20%
+
+
+
+
 
 
 Fox:
@@ -69,3 +88,22 @@ Minus:
 + Side B only does 1% damage
 
 
+
+
+
+
+Doctor Mario:
+
+Plus:
+
++ Up B is now a good recovery tool
++ Picture is now the AI DM Meme
+
+
+Luigi:
+
++ Will Always Misfire
+
+Minus:
+
++ Up B does 50% less knockback, but still retains the damage done.
