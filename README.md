@@ -5,7 +5,7 @@ Please don't hurt me Nintendo.
 ![2021_community_TIERLIST](https://github.com/user-attachments/assets/98bcda76-37e9-4e54-983a-07e1aa890805)
 The worse the character, the better they become.
 The Better the character, the worse they become.
-In Progress. Still a long way to go.
+In Progress. Still a long way to go. Many More Buffs and Nerfs will be added to each character
 
 # Bowser changes:
 
@@ -119,6 +119,6 @@ Plus:
 
 Minus:
 + Down B is now 4 times slower
-+ Air mobility is now the WORST in the game
++ Air mobility is now only average
 
 
