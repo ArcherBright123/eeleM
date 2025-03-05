@@ -1,4 +1,4 @@
-# eleeM: Backward Melee
+# eeleM: Backward Melee
 Backwards Super Smash Bros Melee. The Tier list is flipped on its head with the Worst (Bowser, Kirby) Becoming ABSOLUTELY BROKEN and the Best (Fox, Shiek) Becoming dogsh*t.
 This will include the rom. 
 Please don't hurt me Nintendo. If you have any ideas, please feel free to post them.
