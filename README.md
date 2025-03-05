@@ -20,7 +20,7 @@ Pros:
 
 Cons:
 
-- Can SD while using flame breath.
+- Can SD while using flame breath (Always could, but is a tiny bit more frequent, only a tiny nerf for all the bullshit he gets)
 
 
 
