@@ -12,7 +12,7 @@ In Progress. Still a long way to go. Many More Buffs and Nerfs will be added to 
 Pros:
 + Good recovery
 + Up air is now 4x faster
-+ Flame breath now covers the WHOLE STAGE and deals 20% per flame.
++ Flame breath now covers the WHOLE STAGE and deals 20% per flame (Way too broken, pressing B can deal 500%. Holding it can deal 999% and eventually kill after taking the opponent to the blastzone)
 + Jab poisons
 + INFINITE Jumps.
 + Side B Throw Instakills
