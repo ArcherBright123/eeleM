@@ -127,3 +127,4 @@ Plus:
 + Side B has 9's effects for every number, so you basically hit a nine Every time (Did not change the number animations though, but the sound effects have been patched)
 
 
+Please Feel Free to Buy Me A Coffee (Although i am too young to drink it) and edit this yourself. Thanks!
