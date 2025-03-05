@@ -1,5 +1,5 @@
 # eleeM 
-Backwards Super smash bros Melee. The Tier list is flipped on its head with the Worst (Bowser, Kirby) Becoming ABSOLUTELY BROKEN and the Best (Fox, Shiek) Becoming dogsh*t.
+Backwards Super Smash Bros Melee. The Tier list is flipped on its head with the Worst (Bowser, Kirby) Becoming ABSOLUTELY BROKEN and the Best (Fox, Shiek) Becoming dogsh*t.
 This will include the rom. 
 Please don't hurt me Nintendo.
 ![2021_community_TIERLIST](https://github.com/user-attachments/assets/98bcda76-37e9-4e54-983a-07e1aa890805)
