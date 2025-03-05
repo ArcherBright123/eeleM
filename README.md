@@ -4,7 +4,7 @@ This will include the rom.
 Please don't hurt me Nintendo.
 ![2021_community_TIERLIST](https://github.com/user-attachments/assets/98bcda76-37e9-4e54-983a-07e1aa890805)
 The worse the character, the better they become.
-The Better The character, the worse they become.
+The Better the character, the worse they become.
 In Progress. Still a long way to go.
 
 # Bowser changes:
