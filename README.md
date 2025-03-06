@@ -127,4 +127,21 @@ Plus:
 + Side B has 9's effects for every number, so you basically hit a nine Every time (Did not change the number animations though, but the sound effects have been patched)
 
 
+# Ness:
+
+Plus:
+
++ Pk Fire is now 4 times faster (I hate it, but its there)
++ Pk thunder has a massive hitbox
+
+
+# DK Changes:
+
+Plus:
+
++ DK only takes 1 swing to fully charge Neutral B
++ Has a good vertical recovery.
+
 Please Feel Free to Buy Me A Coffee (Although i am too young to drink it) and edit this yourself. Thanks!
+
+
