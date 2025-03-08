@@ -1,5 +1,5 @@
 # eeleM: Backward Melee
-
+Visit the discord Server: https://discord.com/channels/1347739200794923038/1347739201264947253
 Backwards Super Smash Bros Melee. The Tier list is flipped on its head with the Worst (Bowser, Kirby) Becoming ABSOLUTELY BROKEN and the Best (Fox, Shiek) Becoming dogsh*t.
 This will include the rom. 
 It is a legally obtained rom from my physical copy of Melee. If you have any ideas, please feel free to post them.
