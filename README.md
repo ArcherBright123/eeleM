@@ -145,6 +145,8 @@ Plus:
 Plus:
 
 + DK only takes 1 swing to fully charge Neutral B
+
+Many more updates coming soon.
 + Has a good vertical recovery.
 + Down Tilt now spikes (Using it onstage), and can be used as a combo starter (Down tilt into up air works well).
 
