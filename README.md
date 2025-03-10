@@ -35,6 +35,8 @@ Cons:
 
 Plus:
 + Down Air now Spikes
++ Neutral B now InstaKills
+
 
 
 
