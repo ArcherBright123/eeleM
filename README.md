@@ -38,7 +38,7 @@ Plus:
 + Neutral B now does the max damage: 487%
 + Neutral B then Spit (Press A) Insta Kills.
 + Kirby's Up B is no longer absolute shit.
-+ Kirby Down B Now Freezes Kirby (Can break out of it, and a broken edgeguarding & Gatekeeping tool
++ Kirby Down B Now Freezes Kirby (Can break out of it, and a broken edgeguarding & Gatekeeping tool) Also spikes.
 
 
 
