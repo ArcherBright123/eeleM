@@ -21,10 +21,10 @@ In Progress. Still a long way to go. Many More Buffs and Nerfs will be added to 
 Pros:
 + Good recovery
 + Up air is now 4x faster
-+ Flame breath now covers the WHOLE STAGE and deals 20% per flame (Way too broken, pressing B can deal 500%. Holding it can deal 999% and eventually kill after taking the opponent to the blastzone)
++ Flame breath now covers the WHOLE STAGE and deals 20% per flame (Way too broken, pressing B can deal 500%. Holding it can deal 999% and eventually kill after taking the opponent to the blastzone) (Going to nerf in future, Smaller hitbox perhaps)
 + Jab poisons
-+ INFINITE Jumps.
-+ Side B Throw Instakills
++ INFINITE Jumps. (Going to nerf. Maybe 5 max with endlag)
++ Side B Throw Instakills (Going to remove)
 <img width="712" alt="image" src="https://github.com/user-attachments/assets/e3f08b02-0933-4c7e-bb5d-b64c81163d45" />
 
 Cons:
