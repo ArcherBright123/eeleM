@@ -10,7 +10,7 @@ I probably will make a more balanced version of this in the future.
 
 # Kirby and Bowser should be banned. Only use them as a LAST RESORT.
 
-
+# 
 This will include the rom. 
 It is a legally obtained rom from my physical copy of Melee. If you have any ideas, please feel free to post them.
 ![2021_community_TIERLIST](https://github.com/user-attachments/assets/98bcda76-37e9-4e54-983a-07e1aa890805)
