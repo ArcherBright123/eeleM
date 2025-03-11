@@ -1,4 +1,5 @@
 # eeleM: Backward Melee
+Download by going into releases
 Please Visit the discord Server to share your opinion, it would help dearly: 
 + https://discord.com/channels/1347739200794923038/1347739201264947253
 A competitive version Might be created (eventually, if i feel like it), this is the casual version (AKA the True Broken Version)
