@@ -7,7 +7,8 @@ A competitive version will be created (eventually, if i feel like it), this is t
 Backwards Super Smash Bros Melee. The Tier list is flipped on its head with the Worst (Bowser, Kirby) Becoming ABSOLUTELY BROKEN (One hit KO or instakill type shit) and the Best (Fox, Shiek) Becoming dogsh*t. Other characters will get Buffs and nerfs for their corresponding tiers. This IS NOT for competitive play. This is WAY TOO UNBALENCED. It is good to troll your Melee fan or to troll people with. Also fun to Fuck around with in single player. I Am thinking of adding new characters though.
 
 I probably will make a more balanced version of this in the future.
-Kirby and Bowser should be banned. Only use them as a LAST RESORT.
+
+# Kirby and Bowser should be banned. Only use them as a LAST RESORT.
 
 
 This will include the rom. 
