@@ -8,7 +8,7 @@ Backwards Super Smash Bros Melee. The Tier list is flipped on its head with the 
 
 I probably will make a more balanced version of this in the future.
 
-# Kirby and Bowser should be banned. Only use them as a LAST RESORT.
+# Kirby and Bowser should are BROKEN. Only use them as a LAST RESORT.
 
 # 
 This will include the rom. 
