@@ -16,7 +16,7 @@ The worse the character, the better they become.
 The Better the character, the worse they become.
 In Progress. Still a long way to go. Many More Buffs and Nerfs will be added to each character
 
-# Bowser changes:
+# Bowser changes (Warning: InstaKill Moves) :
 
 Pros:
 + Good recovery
@@ -35,7 +35,7 @@ Cons:
 
 
 
-# Kirby (Now Lore Accurate) Changes:
+# Kirby Changes (Warning: InstaKill Moves) :
 
 Plus:
 + Down Air now Spikes
