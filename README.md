@@ -37,6 +37,7 @@ Plus:
 + Down Air now Spikes
 + Neutral B now does the max damage: 487%
 + Neutral B then Spit (Press A) Insta Kills.
++ Kirby's Up B is no longer absolute shit.
 
 
 
