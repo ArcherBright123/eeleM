@@ -35,7 +35,7 @@ Cons:
 
 Plus:
 + Down Air now Spikes
-+ Neutral B now does the max damage: 487%
++ Neutral B now does the max damage: 487% (Am going to remove this, might be a bit too broken)
 + Neutral B then Spit (Press A) Insta Kills.
 + Kirby's Up B is no longer absolute shit.
 + Kirby Down B Now Freezes Kirby (Can break out of it, and a broken edgeguarding & Gatekeeping tool) Also spikes.
