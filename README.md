@@ -4,7 +4,9 @@ Visit the discord Server:
 
 
 
-Backwards Super Smash Bros Melee. The Tier list is flipped on its head with the Worst (Bowser, Kirby) Becoming ABSOLUTELY BROKEN and the Best (Fox, Shiek) Becoming dogsh*t.
+Backwards Super Smash Bros Melee. The Tier list is flipped on its head with the Worst (Bowser, Kirby) Becoming ABSOLUTELY BROKEN (One hit KO or instakill type shit) and the Best (Fox, Shiek) Becoming dogsh*t. Other characters will get Buffs and nerfs for their corresponding tiers. This IS NOT for competitive play. This is WAY TOO UNBALENCED. It is good to troll your Melee fan or to troll people with. Also fun to Fuck around with in single player. Am thinking of adding new characters though.
+
+
 This will include the rom. 
 It is a legally obtained rom from my physical copy of Melee. If you have any ideas, please feel free to post them.
 ![2021_community_TIERLIST](https://github.com/user-attachments/assets/98bcda76-37e9-4e54-983a-07e1aa890805)
