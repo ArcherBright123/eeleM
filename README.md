@@ -31,7 +31,7 @@ Cons:
 
 
 
-# Kirby Changes:
+# Kirby (Now Lore Accurate) Changes:
 
 Plus:
 + Down Air now Spikes
