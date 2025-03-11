@@ -35,7 +35,8 @@ Cons:
 
 Plus:
 + Down Air now Spikes
-+ Neutral B now InstaKills
++ Neutral B now does the max damage: 487%
++ Neutral B then Spit (Press A) Insta Kills.
 
 
 
