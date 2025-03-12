@@ -11,6 +11,10 @@ I probably will make a more balanced version of this in the future.
 
 # Kirby and Bowser should are BROKEN. Only use them as a LAST RESORT.
 
+# Shadow the HedgeHog Is Here!
+
+<img width="353" alt="image" src="https://github.com/user-attachments/assets/1b98acff-b42b-45fd-8fe1-aaa2def8991d" />
+
 # 
 This will include the rom. 
 It is a legally obtained rom from my physical copy of Melee. If you have any ideas, please feel free to post them.
