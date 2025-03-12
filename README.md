@@ -11,7 +11,7 @@ I probably will make a more balanced version of this in the future.
 
 # Kirby and Bowser should are BROKEN. Only use them as a LAST RESORT.
 
-# Shadow the HedgeHog Is Here!
+# Shadow the HedgeHog Is Coming!
 
 <img width="353" alt="image" src="https://github.com/user-attachments/assets/1b98acff-b42b-45fd-8fe1-aaa2def8991d" />
 
