@@ -1,4 +1,4 @@
-# eeleM: Backward Melee
+# eeleM: Backward Melee (New characters are being added as well)
 Download by going into releases and downloading the Zip File.
 Please Visit the discord Server to share your opinion, it would help dearly: 
 + https://discord.com/channels/1347739200794923038/1347739201264947253
