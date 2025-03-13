@@ -11,10 +11,6 @@ I probably will make a more balanced version of this in the future.
 
 # Kirby and Bowser should are BROKEN. Only use them as a LAST RESORT.
 
-# Shadow the HedgeHog Is In Development!
-# New Stages!
-
-<img width="353" alt="image" src="https://github.com/user-attachments/assets/1b98acff-b42b-45fd-8fe1-aaa2def8991d" />
 
 # 
 This will include the rom. 
@@ -163,6 +159,12 @@ Plus:
 
 + DK only takes 1 swing to fully charge Neutral B
 
+# Shadow the HedgeHog Is Here!
+
+
+<img width="353" alt="image" src="https://github.com/user-attachments/assets/1b98acff-b42b-45fd-8fe1-aaa2def8991d" />
+
+# New Stages!
 Many more updates coming soon.
 + Has a good vertical recovery.
 + Down Tilt now spikes (Using it onstage), and can be used as a combo starter (Down tilt into up air works well).
