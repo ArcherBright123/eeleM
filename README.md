@@ -165,6 +165,9 @@ Plus:
 <img width="353" alt="image" src="https://github.com/user-attachments/assets/1b98acff-b42b-45fd-8fe1-aaa2def8991d" />
 
 # New Stages!
+<img width="518" alt="Screenshot 2025-03-12 233439" src="https://github.com/user-attachments/assets/056460a8-c911-4950-a519-1130e3ed2df5" />
+
+#
 Many more updates coming soon.
 + Has a good vertical recovery.
 + Down Tilt now spikes (Using it onstage), and can be used as a combo starter (Down tilt into up air works well).
