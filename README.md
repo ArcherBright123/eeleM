@@ -15,6 +15,7 @@ I probably will make a more balanced version of this in the future.
 # 
 This will include the rom. 
 It is a legally obtained rom from my physical copy of Melee. If you have any ideas, please feel free to post them.
+
 ![2021_community_TIERLIST](https://github.com/user-attachments/assets/98bcda76-37e9-4e54-983a-07e1aa890805)
 The worse the character, the better they become.
 The Better the character, the worse they become.
@@ -169,6 +170,7 @@ Plus:
 
 # New Stages!
 <img width="518" alt="Screenshot 2025-03-12 233439" src="https://github.com/user-attachments/assets/056460a8-c911-4950-a519-1130e3ed2df5" />
+![icon](https://github.com/user-attachments/assets/61f5e880-eac5-43e6-b8de-d9c7db37ab5e)
 
 #
 Many more updates coming soon.
