@@ -170,7 +170,7 @@ Plus:
 
 # New Stages!
 <img width="518" alt="Screenshot 2025-03-12 233439" src="https://github.com/user-attachments/assets/056460a8-c911-4950-a519-1130e3ed2df5" />
-![icon](https://github.com/user-attachments/assets/61f5e880-eac5-43e6-b8de-d9c7db37ab5e)
+<img width="518" alt="Screenshot 2025-03-12 233439" src= "https://github.com/user-attachments/assets/61f5e880-eac5-43e6-b8de-d9c7db37ab5e"/>
 
 #
 Many more updates coming soon.
