@@ -158,6 +158,9 @@ Plus:
 Plus:
 
 + DK only takes 1 swing to fully charge Neutral B
++ Has a good vertical recovery.
++ Down Tilt now spikes (Using it onstage), and can be used as a combo starter (Down tilt into up air works well).
+
 
 # Shadow the HedgeHog Is Here!
 
@@ -169,8 +172,6 @@ Plus:
 
 #
 Many more updates coming soon.
-+ Has a good vertical recovery.
-+ Down Tilt now spikes (Using it onstage), and can be used as a combo starter (Down tilt into up air works well).
 
 Please Feel Free to Buy Me A Coffee (Although i am too young to drink it) and edit this yourself. Thanks!
 
