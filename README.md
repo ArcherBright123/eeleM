@@ -163,6 +163,13 @@ Plus:
 + Has a good vertical recovery.
 + Down Tilt now spikes (Using it onstage), and can be used as a combo starter (Down tilt into up air works well).
 
+# Roy Changes:
+
+Plus:
+
++ Down B counter now lasts 5 more frames, and is now multiplied by 15
++ Neutral B does 100% and takes 1 second to charge (Still self damages)
+
 
 # Shadow the HedgeHog Is Here!
 
