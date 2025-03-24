@@ -6,7 +6,7 @@ A competitive version Might be created (eventually, if i feel like it), this is 
 
 
 https://www.youtube.com/embed/omq0l7ZDv_I?si=mvgkPRsKt84OjDtr
-Backwards Super Smash Bros Melee. The Tier list is flipped on its head with the Worst (Bowser, Kirby) Becoming ABSOLUTELY BROKEN (One hit KO or instakill type shit) and the Best (Fox, Shiek) Becoming dogsh*t. Other characters will get Buffs and nerfs for their corresponding tiers. This IS NOT for competitive play. This is WAY TOO UNBALENCED. It is good to troll your Melee fan or to troll people with. Also fun to Fuck around with in single player. I Am thinking of adding new characters though.
+Backwards Super Smash Bros Melee. The Tier list is flipped on its head with the Worst (Bowser, Kirby) Becoming ABSOLUTELY BROKEN (One hit KO or instakill type crap) and the Best (Fox, Shiek) Becoming Horrible. Other characters will get Buffs and nerfs for their corresponding tiers. This IS NOT for competitive play. This is WAY TOO UNBALENCED. It is good to troll your Melee fan or to troll people with. Also fun to mess around with in single player. I Am thinking of adding new characters though.
 
 I probably will make a more balanced version of this in the future.
 
@@ -47,7 +47,7 @@ Plus:
 + Down Air now Spikes
 + Neutral B now does the max damage: 487% (Am going to remove this, might be a bit too broken)
 + Neutral B then Spit (Press A) Insta Kills.
-+ Kirby's Up B is no longer absolute shit.
++ Kirby's Up B is no longer absolute doodoo.
 + Kirby Down B Now Freezes Kirby (Can break out of it, and a broken edgeguarding & Gatekeeping tool) Also spikes.
 
 
