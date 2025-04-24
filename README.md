@@ -185,6 +185,8 @@ Minus:
 # Many New characters are Here!
 
 Including Characters from Alkanela, Mods and a few custom ones i have made myself.
+<img width="353" alt="image" src="https://github.com/user-attachments/assets/1b98acff-b42b-45fd-8fe1-aaa2def8991d" />
+
 
 # New Music!
 
@@ -193,8 +195,6 @@ New stage music and new menu music too!
 The CSS music is now "In the Final" From Bowser's Inside story.
 
 
-
-<img width="353" alt="image" src="https://github.com/user-attachments/assets/1b98acff-b42b-45fd-8fe1-aaa2def8991d" />
 
 # New Stages!
 <img width="518" alt="Screenshot 2025-03-12 233439" src="https://github.com/user-attachments/assets/056460a8-c911-4950-a519-1130e3ed2df5" />
