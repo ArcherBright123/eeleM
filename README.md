@@ -16,14 +16,13 @@ Backwards Super Smash Bros Melee. The Tier list is flipped on its head with the 
 I probably will make a more balanced version of this in the future.
 
 
-
+![2021_community_TIERLIST](https://github.com/user-attachments/assets/98bcda76-37e9-4e54-983a-07e1aa890805)
 
 
 This will include the rom. 
 It is a legally obtained rom from my physical copy of Melee. If you have any ideas, please feel free to post them.
 The Next Update will be a xDelta Patch
 
-![2021_community_TIERLIST](https://github.com/user-attachments/assets/98bcda76-37e9-4e54-983a-07e1aa890805)
 The worse the character, the better they become.
 The Better the character, the worse they become.
 In Progress. Still a long way to go. Many More Buffs and Nerfs will be added to each character
