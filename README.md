@@ -1,5 +1,5 @@
 # eeleM: Backward Melee 
-(New characters and stages are being added. As well as many character changes.)
+(New characters and stages are being added. As well as many character changes. Custom stages are being made as well.)
 Download by going into releases and downloading the Zip File.
 Please Visit the discord Server to share your opinion, it would help dearly: 
 + https://discord.com/channels/1347739200794923038/1347739201264947253
@@ -11,12 +11,13 @@ Backwards Super Smash Bros Melee. The Tier list is flipped on its head with the 
 
 I probably will make a more balanced version of this in the future.
 
-# Kirby and Bowser should are BROKEN. Only use them as a LAST RESORT.
 
 
-# 
+
+
 This will include the rom. 
 It is a legally obtained rom from my physical copy of Melee. If you have any ideas, please feel free to post them.
+The Next Update will be a xDelta Patch
 
 ![2021_community_TIERLIST](https://github.com/user-attachments/assets/98bcda76-37e9-4e54-983a-07e1aa890805)
 The worse the character, the better they become.
@@ -171,8 +172,23 @@ Plus:
 + Down B counter now lasts 5 more frames, and is now multiplied by 15
 + Neutral B does 100% and takes 1 second to charge (Still self damages)
 
+# Ice-Climber's Changes:
 
-# Shadow the HedgeHog Is Here!
+Minus:
+
++ Nana no longer exists. It is now just the singular ice climber.
+
+ 
+# Many New characters are Here!
+
+Including Characters from Alkanela, Mods and a few custom ones i have made myself.
+
+# New Music!
+
+New stage music and new menu music too!
+
+The CSS music is now "In the Final" From Bowser's Inside story.
+
 
 
 <img width="353" alt="image" src="https://github.com/user-attachments/assets/1b98acff-b42b-45fd-8fe1-aaa2def8991d" />
@@ -184,6 +200,10 @@ Plus:
 #
 Many more updates coming soon.
 
-Please Feel Free to Buy Me A Coffee (Although i am too young to drink it) and edit this yourself. Thanks!
+Please Feel Free to Buy Me A Coffee (Although i am too young to drink it) and edit this yourself. Thanks! Also, please don't refrain from joining the discord. It will not be large, but will be benificial for feedback.
+
+Thanks again!
+
+Archer_Bright
 
 
